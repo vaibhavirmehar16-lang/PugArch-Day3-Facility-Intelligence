@@ -23,9 +23,9 @@
 
 > After deployment, place the Render URL here.
 
-**Live Dashboard:** `[https://your-render-url.onrender.com/](https://pugarch-day3-facility-intelligence.onrender.com/)`
+**Live Dashboard:** https://pugarch-day3-facility-intelligence.onrender.com/
 
-**Source Code:** `https://github.com/<your-username>/<your-repository>`
+**Source Code:** https://github.com/vaibhavirmehar16-lang/PugArch-Day3-Facility-Intelligence
 
 ---
 
